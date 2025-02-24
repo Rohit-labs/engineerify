@@ -1,0 +1,110 @@
+
+
+.card {
+    position: relative;
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: center;
+    color: white;
+    border: 2px solid #333;
+}
+
+.card-title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.4);
+    background-size: cover;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.main-card{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin: 2rem;
+}
+.card1{
+    background: url('./iitbombay.jpg') no-repeat center center;
+    background-size: cover;
+}
+.card2{
+    background: url('./iitdelhi.jpg') no-repeat center center;
+    background-size: cover;
+}
+.card3{
+    background: url('./iitpatna.jpg') no-repeat center center;
+    background-size: cover;
+}
+.card4{
+    background: url('./iitroorkee.jpg') no-repeat center center;
+    background-size: cover;
+}
+.card5{
+    background: url('./iithyderabad.jpg') no-repeat center center;
+    background-size: cover;
+}
+.card6{
+    background: url('./iitindore.jpg') no-repeat center center;
+    background-size: cover;
+}
+.card7{
+    background: url('./iitguwahati.jpg') no-repeat center center;
+    background-size: cover;
+}
+.card8{
+    background: url('./iitbhu.jpg') no-repeat center center;
+    background-size: cover;
+}
+.card9{
+    background: url('./iitdhanbad.jpg') no-repeat center center;
+    background-size: cover;
+}
+.heading{
+    font-weight: bold;
+    width: 100vw;
+    text-align: center;
+}
+
+
+.card11{
+    background: url('./nittrichy.jpg') no-repeat center center;
+    background-size: cover;
+}
+.card12{
+    background: url('./nitsurathkal.jpg') no-repeat center center;
+    background-size: cover;
+}
+.card13{
+    background: url('./nitrourkela.jpg') no-repeat center center;
+    background-size: cover;
+}
+.card14{
+    background: url('./nitwarangal.jpg') no-repeat center center;
+    background-size: cover;
+}
+.card15{
+    background: url('./nit calicut.jpg') no-repeat center center;
+    background-size: cover;
+}
+.card16{
+    background: url('./nitnagpur.jpg') no-repeat center center;
+    background-size: cover;
+}
+.card17{
+    background: url('./nit durgapur.jpg') no-repeat center center;
+    background-size: cover;
+}
+.card18{
+    background: url('./nit silchar.jpg') no-repeat center center;
+    background-size: cover;
+}
+.card19{
+    background: url('./nit jaipur.jpg') no-repeat center center;
+}
